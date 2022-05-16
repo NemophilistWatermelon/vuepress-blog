@@ -1,4 +1,4 @@
-module.exports ={
+module.exports = {
   "title": "雜貨鋪",
   "description": "寶藏藏身處",
   "head": [
@@ -23,12 +23,6 @@ module.exports ={
     ],
     "sidebar": {
       "/": [
-        "EsLint相关",
-        "Git提交规范",
-        "vite学习",
-        "公司地图",
-        "前端开发的套路",
-        "杂货店的钥匙"
       ]
     }
   }
