@@ -13,5 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "chokidar": "^3.5.3"
+  },
+  "devDependencies": {
+    "vuepress": "^1.9.7"
   }
 }
