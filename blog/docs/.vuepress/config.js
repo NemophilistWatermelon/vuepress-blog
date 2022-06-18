@@ -23,10 +23,13 @@ module.exports ={
     ],
     "sidebar": {
       "/": [
+        "Echarts地址",
         "EsLint相关",
         "Git提交规范",
+        "vant-下拉刷新列表模板",
         "vite学习",
         "公司地图",
+        "前端展示word-excel",
         "前端开发的套路",
         "杂货店的钥匙"
       ]
