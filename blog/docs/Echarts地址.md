@@ -21,7 +21,7 @@
  ```
 
  - analysis Ecahrts
-[链接 :](http://analysis.datains.cn/finance-admin/index.html#/chartLib/all)
+[链接 :](http://chartlib.datains.cn/echarts)
  ```js
-    http://analysis.datains.cn/finance-admin/index.html#/chartLib/all
+    http://chartlib.datains.cn/echarts
  ```
